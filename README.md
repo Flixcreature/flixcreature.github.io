@@ -11,13 +11,13 @@ Personal Growth is a game I made for the 2024 GMTK Game Jam using Godot. It was 
 
 It was my first time participating in any sort of large scale game development and taught me how much I enjoyed it.
 
-**Check it out on itch.io here:** https://flix-tdsg.itch.io/personal-growth
+[**Check it out on itch.io here!**](https://flix-tdsg.itch.io/personal-growth)
 ### Screenboard (2025)
 Screenboard is a bit unique as it's not a game exactly. It's a software (also built in Godot) that plays videos directly to your screen whilst also not intruding on the other functions of your computer.
 
 I made it purely because I thought it would be really funny to prank my friends with it while I was screen sharing with them on Discord but I thought "Hey I'm probably not the only one who would find this entertaining." So I ended up publishing it.
 
-**Check out the Github Repo here:** https://github.com/Flixcreature/Screenboard
+[**Check out the Github Repo here!**](https://github.com/Flixcreature/Screenboard)
 ### Untitled Camera Game (2026 - Present)
 ![CGtest1.mp4](media/video/CGtest1.mp4)
 *Concept Video*
