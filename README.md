@@ -5,7 +5,7 @@ I'm Sarah, a game developer studying at Humber Polytechnic's Game Programming pr
 My goal is to have the skillset required to fully make a completed video game completely solo.
 ## Personal Projects
 ### Personal Growth (2024)
-![[4zRj8o.png]]
+![4zRj8o.png](media/images/4zRj8o.png)
 
 Personal Growth is a game I made for the 2024 GMTK Game Jam using Godot. It was my first ever published game (and even my first full project).
 
@@ -19,7 +19,7 @@ I made it purely because I thought it would be really funny to prank my friends 
 
 **Check out the Github Repo here:** https://github.com/Flixcreature/Screenboard
 ### Untitled Camera Game (2026 - Present)
-![[CGtest1.mp4]]
+![CGtest1.mp4](media/video/CGtest1.mp4)
 *Concept Video*
 
 Untitled Camera Game (or Camera Game as I'll be calling it until I make a better name) is an upcoming puzzle / survival horror game inspired by genre classics created entirely by myself (for now) in Godot.
